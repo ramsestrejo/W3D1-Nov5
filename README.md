@@ -1,17 +1,10 @@
-
-
 # The CSS Box Model
 
 ## Topics 
-1. Demo of week project : Tweeter
-2. Methods of applying CSS
-3. CSS Box Model
-4. Block and inline property in element
+1. Methods of applying CSS
+2. CSS Box Model
+3. Block and inline property in element
 4. HTML5 semantic
-
-## Introduction
-In our lecture today, we discussed HTML5 semantic, how to incorporate styles (CSS) into our HTML and the box model. We mentioned that in this week we will lear and use mostly vanilla CSS, Flexbox a powerful CSS library is not in scope for this week. 
-We showed a quick demo of the Tweeter app that you will be putting together this week. With the material covered in this lecture, you should be able to jump start your project.
 
 ## CSS Box Model
 All HTML elements are considered boxes, many of these play the role of containers of other elements, and the way the width and height is calculated in the document becomes even more important. The box model setting determines how browser renders elements on the screen.
