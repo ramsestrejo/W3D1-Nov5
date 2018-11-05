@@ -23,12 +23,12 @@ Actual visible/rendered width of an element's box = content width + padding + bo
 
 Actual visible/rendered height of an element's box = content height + padding + border 
 
-[Some history about the box model] (https://css-tricks.com/box-sizing)
+[Some history about the box model](https://css-tricks.com/box-sizing)
 In conclusion, the box model is defined by the box-sizing property:
 content-box is the default behaviour (element box dimensions are calculated by adding padding and border value)
 border-box is equivalent to IE's “quirks mode" (element's padding & border are included in the box's width & height)
 
-[Demo of the box model] (http://guyroutledge.github.io/box-model)
+[Demo of the box model](http://guyroutledge.github.io/box-model)
 
 ## Block vs inline Elements
 Block elements take the whole width of their container, pushing any neighbouring elements down.
